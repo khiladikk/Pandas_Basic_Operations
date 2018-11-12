@@ -1,4 +1,6 @@
-<H1>Objective<H1>: To learn about Python Library Pandas.
+Objective: 
+
+To learn about Python Library called "Pandas".
 
 So, we have given a CSV file of 78 persons including male and female with their number of Phds, salaries and service.
 

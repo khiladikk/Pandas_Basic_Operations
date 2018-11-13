@@ -2,7 +2,7 @@ Objective:
 
 To learn about Python Library called "Pandas".
 
-So, we have given a CSV file of 78 persons including male and female with their number of Phds, salaries and service.
+So, we have a CSV file of 78 persons including male and female with their respective number of Phds, salaries and service.
 
 Here we are using "Pandas" library to explore more about this data set.
 
